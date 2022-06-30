@@ -1,0 +1,13 @@
+name: AstroBanner
+version: '1.0'
+main: xyz.artifacting.astrobanner.Astro
+api-version: 1.17
+authors: [ Artifacting ]
+description: A simple ban broadcaster for Astro Anticheat
+commands:
+  acban:
+    description: bans
+  togglebans:
+    description: toggles autobans
+  acexempt:
+    description: excempts a player from being banned

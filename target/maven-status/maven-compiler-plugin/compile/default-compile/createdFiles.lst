@@ -1,0 +1,6 @@
+xyz\artifacting\astrobanner\Astro.class
+xyz\artifacting\astrobanner\utils\msg.class
+xyz\artifacting\astrobanner\commands\AcbanCommand.class
+xyz\artifacting\astrobanner\commands\TogglebansCommand.class
+xyz\artifacting\astrobanner\commands\ManageExemptCommand.class
+xyz\artifacting\astrobanner\utils\DefaultFontInfo.class

@@ -1,0 +1,11 @@
+autobans: 0
+bans-enabled: true
+ban-cmd: "ipban %player% 1h -s Unfair Advantage (Auto-Ban)"
+global-ban-sound: true
+acban-permission: op
+exempted-manage-permission: staff.use
+staff-ban-sound: true
+staff-permission: staff.use
+exempted-players:
+  - "Notch"
+  - "Trent"
